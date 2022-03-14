@@ -8,14 +8,14 @@ public class Abilities {
 	boolean is_hidden;
 	int slot;
 	
-	/*public Ability[] getAbility() {
+	public Ability[] getAbility() {
 		return ability;
 	}
 
 	public void setAbility(Ability[] ability) {
 		this.ability = ability;
-	}*/
-	
+	}/**/
+		
 	public int getSlot() {
 		return slot;
 	}
